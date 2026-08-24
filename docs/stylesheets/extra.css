@@ -1,0 +1,18 @@
+.md-header {
+  background-color: #E5E4E2;
+  color: #222222;
+}
+
+:root {
+  --md-accent-fg-color: #A67C00;
+  --md-typeset-a-color: #A67C00;
+}
+
+.md-nav__link--active {
+  color: #A67C00 !important;
+  font-weight: 600;
+}
+
+.md-nav__link:hover {
+  color: #A67C00 !important;
+}

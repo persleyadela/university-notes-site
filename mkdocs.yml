@@ -1,0 +1,72 @@
+site_name: 810的大学课程资源库
+
+theme:
+  name: material
+  language: zh
+
+markdown_extensions:
+  - attr_list
+
+nav:
+  - 首页: index.md
+  - 课程:
+      - 思政类: 
+          - 首页: courses/ideology/index.md
+          - 习近平新时代中国特色社会主义思想概论: courses/ideology/xigai/index.md
+      - 体育类: courses/sports/index.md
+      - 计算机类: courses/computing/index.md
+      - 自然科学通识类: 
+          - 大学物理实验: courses/natural-science-general/Physics-Experiment/index.md
+      - 通核/美育: courses/general_core-art/index.md
+      - 专业基础课: 
+          - 物理化学: courses/major-foundation/index.md
+      - 专业必修课:
+          - 地球科学大数据:
+              - 课程简介: courses/major-required/earth-science-big-data/index.md
+              - 复习资料（半开卷）: courses/major-required/earth-science-big-data/review-notes.md
+              - 历年卷: courses/major-required/earth-science-big-data/past-exams.md
+          - 地球物理学概论: courses/major-required/Introduction-Geophysics
+          - 构造地质学: courses/major-required/structural-geology/structural-geology
+          - 地学数字信号处理基础: courses/major-required/signal-processing
+          - 固体地球物理原理: courses/major-required/solid-earth
+      - 专业选修课:
+          - 矿物岩石学: courses/major-elective/mineralogy-petrology/index.md
+          - 板块构造: courses/major-elective/plate-tectonics/index.md
+          - 地质年代学: courses/major-elective/geochronology/index.md
+          - 石油地质学: courses/major-elective/petroleum-geology/index.md
+          - 国土空间规划: courses/major-elective/territorial-planning/index.md
+          - 浅地表地球物理: courses/major-elective/near-surface-geophysics/index.md
+          - 实验地球物理: courses/major-elective/experimental-geophysics/index.md
+      - 短学期实践课程:
+          - 地质认知实习: courses/short-term-practice/geology-intro-fieldwork/index.md
+          - 地质填图实习:
+              - 1. 实习概况与工作方法: courses/short-term-practice/geological-mapping/index.md
+              - 2. 区域地质认识: courses/short-term-practice/geological-mapping/regional-geology.md
+              - 3. 综合填图成果: courses/short-term-practice/geological-mapping/mapping-results.md
+              - 4. 专题研究与总结: courses/short-term-practice/geological-mapping/topic-summary.md
+              - 5. 其他资料: courses/short-term-practice/geological-mapping/other-materials.md
+          - 地学综合实习:
+              - 综合实习简介: courses/short-term-practice/earth-science-fieldwork/index.md
+              - 室内实验部分:
+                  - 1. 环境配置: courses/short-term-practice/earth-science-fieldwork/indoor-experiments/environment-setup/index.md
+                  - 2. ATF 与 SAF 二维 MT 反演: courses/short-term-practice/earth-science-fieldwork/indoor-experiments/mt-atf-saf/index.md
+                  - 3. 接收函数、CCP 与 H–κ: courses/short-term-practice/earth-science-fieldwork/indoor-experiments/receiver-function-ccp-hk/index.md
+              - 野外实习部分:
+                  - 1. 绪论与区域背景: courses/short-term-practice/earth-science-fieldwork/fieldwork/index.md
+                  - 2. 阿尔金断裂走滑变形: courses/short-term-practice/earth-science-fieldwork/fieldwork/altyn-tagh.md
+                  - 3. 祁连山北缘逆冲—缩短与隆升: courses/short-term-practice/earth-science-fieldwork/fieldwork/qilian-thrust-uplift.md
+                  - 4. 红柳峡区域构造解析: courses/short-term-practice/earth-science-fieldwork/fieldwork/hongliuxia.md
+                  - 5. 青藏高原东北缘变形机制讨论: courses/short-term-practice/earth-science-fieldwork/fieldwork/discussion.md
+                  - 6. 主要结论: courses/short-term-practice/earth-science-fieldwork/fieldwork/conclusions.md
+              - 参考文献: courses/short-term-practice/earth-science-fieldwork/references/index.md
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
