@@ -9,7 +9,7 @@
 ## 手写笔记分享
 （字丑勿介意💔）
 
-文件比较大，以期中考试内容分成了两部分
+文件比较大，以期中考试内容为界分成了两部分
 
 <iframe 
 src="/university-notes-site/courses/major-foundation/phy-chem_1-59.pdf" width="100%" height="900px"> 
