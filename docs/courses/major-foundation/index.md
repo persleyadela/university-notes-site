@@ -9,8 +9,12 @@
 ## 手写笔记分享
 （字丑勿介意💔）
 
+文件比较大，以期中考试内容分成了两部分
 
 <iframe 
-src="/university-notes-site/courses/major-foundation/phy-chem.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/major-foundation/phy-chem_1-59.pdf" width="100%" height="900px"> 
 </iframe>
 
+<iframe 
+src="/university-notes-site/courses/major-foundation/phy-chem_61-133.pdf" width="100%" height="900px"> 
+</iframe>
