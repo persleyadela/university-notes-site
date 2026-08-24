@@ -75,6 +75,3 @@ plugins:
   - search
 
 use_directory_urls: false
-
-extra_files:
-  - docs/**/*.pdf
