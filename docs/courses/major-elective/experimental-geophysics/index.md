@@ -11,5 +11,5 @@
 感觉写的总体有点像堆砌课程做的结果图了，不过ERT探测含水空洞这部分是自己的思考与模型设计。
 
 <iframe 
-src="/courses/major-elective/experimental-geophysics/files/Experimental Geophysics Report.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/major-elective/experimental-geophysics/files/Experimental Geophysics Report.pdf" width="100%" height="900px"> 
 </iframe>

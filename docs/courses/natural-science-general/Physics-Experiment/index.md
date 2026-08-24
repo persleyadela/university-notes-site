@@ -16,19 +16,19 @@
 1.棱镜偏向角特性
 
 <iframe 
-src="/courses/natural-science-general/Physics-Experiment/lengjing.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/natural-science-general/Physics-Experiment/lengjing.pdf" width="100%" height="900px"> 
 </iframe>
 
 2.惠斯登电桥
 
 <iframe 
-src="/courses/natural-science-general/Physics-Experiment/huisideng.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/natural-science-general/Physics-Experiment/huisideng.pdf" width="100%" height="900px"> 
 </iframe>
 
 3.声速的测定
 
 <iframe 
-src="/courses/natural-science-general/Physics-Experiment/shengsu.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/natural-science-general/Physics-Experiment/shengsu.pdf" width="100%" height="900px"> 
 </iframe>
 
 ## 花絮
@@ -36,6 +36,6 @@ src="/courses/natural-science-general/Physics-Experiment/shengsu.pdf" width="100
 由于本人每次实验都会随手拍张照记录，于是有了⬇️
 
 <iframe 
-src="/courses/natural-science-general/Physics-Experiment/pic.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/natural-science-general/Physics-Experiment/pic.pdf" width="100%" height="900px"> 
 </iframe>
 

@@ -9,11 +9,11 @@
 ## 课上积累词汇
 
 <iframe 
-src="/courses/major-elective/near-surface-geophysics/word.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/major-elective/near-surface-geophysics/word.pdf" width="100%" height="900px"> 
 </iframe>
 
 ## 科技文章写作方法
 
 <iframe 
-src="/courses/major-elective/near-surface-geophysics/Mark B. Moldwin et al.2017.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/major-elective/near-surface-geophysics/Mark B. Moldwin et al.2017.pdf" width="100%" height="900px"> 
 </iframe>

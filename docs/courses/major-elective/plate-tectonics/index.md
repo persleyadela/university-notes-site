@@ -10,7 +10,7 @@
 主要根据老师上课的ppt，整理了历年卷高频考题的答案，自己复习的时候就背了这些知识点。
 
 <iframe
-src="/courses/major-elective/plate-tectonics/files/plate-tectonics-1.pdf"
+src="/university-notes-site/courses/major-elective/plate-tectonics/files/plate-tectonics-1.pdf"
 width="100%"
 height="900px">
 </iframe>
@@ -21,7 +21,7 @@ height="900px">
 主要根据老师上课的ppt，整理了一些其他主要的知识点。
 
 <iframe
-src="/courses/major-elective/plate-tectonics/files/plate-tectonics-2.pdf"
+src="/university-notes-site/courses/major-elective/plate-tectonics/files/plate-tectonics-2.pdf"
 width="100%"
 height="900px">
 </iframe>

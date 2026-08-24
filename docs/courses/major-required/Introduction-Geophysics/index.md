@@ -9,5 +9,5 @@
 （主要根据ppt和AI老师做的一些知识点整理）
 
 <iframe 
-src="/courses/major-required/Introduction-Geophysics/intro-geophy.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/major-required/Introduction-Geophysics/intro-geophy.pdf" width="100%" height="900px"> 
 </iframe>

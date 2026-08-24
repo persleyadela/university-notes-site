@@ -10,13 +10,13 @@
 ## 1.火成岩知识点及作业题整理
 
 <iframe
-src="/courses/major-elective/mineralogy-petrology/Igneous-Rock.pdf"
+src="/university-notes-site/courses/major-elective/mineralogy-petrology/Igneous-Rock.pdf"
 width="100%"
 height="900px">
 </iframe>
 
 <iframe
-src="/courses/major-elective/mineralogy-petrology/Igneous-QA.pdf"
+src="/university-notes-site/courses/major-elective/mineralogy-petrology/Igneous-QA.pdf"
 width="100%"
 height="900px">
 </iframe>
@@ -24,7 +24,7 @@ height="900px">
 ## 2.变质岩知识点整理
 
 <iframe
-src="/courses/major-elective/mineralogy-petrology/Metamorphic-Rock.pdf"
+src="/university-notes-site/courses/major-elective/mineralogy-petrology/Metamorphic-Rock.pdf"
 width="100%"
 height="900px">
 </iframe>
@@ -32,7 +32,7 @@ height="900px">
 ## 3.常见矿物缩写以及矿物-元素关系
 
 <iframe
-src="/courses/major-elective/mineralogy-petrology/Mineral.pdf"
+src="/university-notes-site/courses/major-elective/mineralogy-petrology/Mineral.pdf"
 width="100%"
 height="900px">
 </iframe>

@@ -7,7 +7,7 @@
 资料分享如下，主要汇总了pta的题目与解析。
 
 <iframe 
-src="/courses/computing/PTA_Python.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/computing/PTA_Python.pdf" width="100%" height="900px"> 
 </iframe>
 
 这些资料我也发到了csdn上面，网页版可能目录索引更清楚，看起来会方便些⬇️

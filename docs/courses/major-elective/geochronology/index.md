@@ -9,7 +9,7 @@
 ## 笔记/考试复习资料
 
 <iframe
-src="/courses/major-elective/geochronology/files/geochronology-notes.pdf"
+src="/university-notes-site/courses/major-elective/geochronology/files/geochronology-notes.pdf"
 width="100%"
 height="900px">
 </iframe>

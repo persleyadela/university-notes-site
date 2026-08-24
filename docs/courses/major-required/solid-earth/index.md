@@ -9,13 +9,13 @@
 1.历年卷以及参考答案（答案自己整理的不保对）
 
 <iframe 
-src="/courses/major-required/solid-earth/linianjuan.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/major-required/solid-earth/linianjuan.pdf" width="100%" height="900px"> 
 </iframe>
 
 2.A4半开卷资料
 
 <iframe 
-src="/courses/major-required/solid-earth/solid.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/major-required/solid-earth/solid.pdf" width="100%" height="900px"> 
 </iframe>
 
 考试的时候发现70%的题目都能在自己准备找到，剩下30%自己发挥了。

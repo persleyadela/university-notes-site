@@ -5,7 +5,7 @@
 以下整理了巢湖地区地质填图实习相关背景知识，包括区域构造背景、地层层序、岩石描述方法以及地质构造特征等内容。
 
 <iframe
-src="/courses/short-term-practice/geological-mapping/files/chaohu-geological-mapping.pdf"
+src="/university-notes-site/courses/short-term-practice/geological-mapping/files/chaohu-geological-mapping.pdf"
 width="100%"
 height="900px">
 </iframe>

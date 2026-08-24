@@ -11,12 +11,12 @@
 1.预测题目与答案
 
 <iframe 
-src="/courses/major-elective/territorial-planning/files/guotu_kaijuankao.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/major-elective/territorial-planning/files/guotu_kaijuankao.pdf" width="100%" height="900px"> 
 </iframe>
 
 
 2.每次ppt最后一页的问题汇总
 
 <iframe 
-src="/courses/major-elective/territorial-planning/files/guotu_timu.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/major-elective/territorial-planning/files/guotu_timu.pdf" width="100%" height="900px"> 
 </iframe>

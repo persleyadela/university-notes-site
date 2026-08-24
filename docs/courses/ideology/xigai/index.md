@@ -9,6 +9,6 @@
 整理自cc98
 
 <iframe 
-src="/courses/ideology/xigai/recalled_paper.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/ideology/xigai/recalled_paper.pdf" width="100%" height="900px"> 
 </iframe>
 

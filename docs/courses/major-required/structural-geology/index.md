@@ -9,21 +9,21 @@
 1.邓洪旦老师授课部分的笔记
 
 <iframe 
-src="/courses/major-required/structural-geology/2.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/major-required/structural-geology/2.pdf" width="100%" height="900px"> 
 </iframe>
 
 2.面向考题的复习资料
 
 <iframe 
-src="/courses/major-required/structural-geology/paper.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/major-required/structural-geology/paper.pdf" width="100%" height="900px"> 
 </iframe>
 
 3.沈晓华老师授课部分的笔记
 
-当时的自己仿佛不大会做笔记。大部分都是按ppt然后把自己认为重要的理了一遍，也算是一边整理一边复习了。
+看到这些笔记感觉当时的自己仿佛不大会做笔记。大部分都是按ppt然后把自己认为重要的理了一遍，也算是一边整理一边复习了。
 
 <iframe 
-src="/courses/major-required/structural-geology/1.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/major-required/structural-geology/1.pdf" width="100%" height="900px"> 
 </iframe>
 
 

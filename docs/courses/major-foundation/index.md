@@ -11,6 +11,6 @@
 
 
 <iframe 
-src="/courses/major-foundation/phy-chem/phy-chem.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/major-foundation/phy-chem.pdf" width="100%" height="900px"> 
 </iframe>
 
