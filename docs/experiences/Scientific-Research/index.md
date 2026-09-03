@@ -7,8 +7,9 @@
 我们小组共三人，每人负责一片区域的研究工作。然后我们组相对是比较独立的，每个人自己做自己的，现在反思下来感觉组内交流太少了，有点孤军奋战的味道了。我所做项目主要流程是：首先利用 ArcGIS 对研究区 DEM 和热年代学数据进行空间裁剪和整理，并将 AFT、ZFT、AHe、ZHe 等不同体系的数据统一转换为 GLIDE 所需的输入格式；之后根据研究区和参考文献设置先验剥蚀速率、空间相关长度、时间步长等参数，通过xshell连接学院计算平台，用 Linux 服务器运行 GLIDE 反演；最后利用 MATLAB 对结果进行后处理，得到不同时段的剥蚀速率和 Normalised Variance 空间分布。基于此，我编写了一份Glide操作手册，详细记录了每一步操作，力求将繁琐流程标准化，使他人能够据此复现运行结果。
 
 Glide操作手册如下：
+
 <iframe 
-src="/experiences/Scientific-Research/glide.pdf" width="100%" height="900px"> 
+src="/university-notes-site/experiences/Scientific-Research/glide.pdf" width="100%" height="900px"> 
 </iframe>
 
 
