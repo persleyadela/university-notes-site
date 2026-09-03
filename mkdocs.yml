@@ -7,6 +7,9 @@ theme:
 
 nav:
   - 首页: index.md
+  - 经验分享: 
+      - 数字化管理: experiences/Electronic-Record/index.md
+      - 科研经历: experiences/Scientific-Research/index.md
   - 课程:
       - 思政类: 
           - 首页: courses/ideology/index.md
