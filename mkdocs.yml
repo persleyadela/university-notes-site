@@ -18,6 +18,9 @@ nav:
       - 计算机类: courses/computing/index.md
       - 自然科学通识类: 
           - 大学物理实验: courses/natural-science-general/Physics-Experiment/index.md
+          - 大学物理（甲）: 
+              - 大物（甲）I: courses/natural-science-general/University-Physics/physics1/index.md
+              - 大物（甲）II: courses/natural-science-general/University-Physics/physics2/index.md
       - 通核/美育: courses/general_core-art/index.md
       - 专业基础课: 
           - 物理化学: courses/major-foundation/index.md
