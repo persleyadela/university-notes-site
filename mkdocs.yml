@@ -17,6 +17,9 @@ nav:
       - 体育类: courses/sports/index.md
       - 计算机类: courses/computing/index.md
       - 自然科学通识类: 
+          - 微积分（甲）: 
+              - 微积分（甲）I: courses/natural-science-general/Calculus/Calculus1/index.md
+              - 微积分（甲）II: courses/natural-science-general/Calculus/Calculus2/index.md
           - 大学物理实验: courses/natural-science-general/Physics-Experiment/index.md
           - 大学物理（甲）: 
               - 大物（甲）I: courses/natural-science-general/University-Physics/physics1/index.md
@@ -34,6 +37,7 @@ nav:
           - 地学数字信号处理基础: courses/major-required/signal-processing
           - 固体地球物理原理: courses/major-required/solid-earth
       - 专业选修课:
+          - 地貌学与第四纪地质: courses/major-elective/Geomorphology-Quaternary/index.md
           - 矿物岩石学: courses/major-elective/mineralogy-petrology/index.md
           - 板块构造: courses/major-elective/plate-tectonics/index.md
           - 地质年代学: courses/major-elective/geochronology/index.md
