@@ -17,6 +17,16 @@
   color: #A67C00 !important;
 }
 
+/* 移动端左侧栏顶部 */
+.md-nav--primary .md-nav__title[for="__drawer"] {
+  background-color: #F1E4B5;
+  color: #6F5600;
+}
+
+.md-nav--primary .md-nav__title[for="__drawer"] .md-logo {
+  color: #6F5600;
+}
+
 /* ===== 口语题库 tip 折叠框：使用网站主题强调色 ===== */
 
 /* 外边框 */
