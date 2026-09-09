@@ -11,6 +11,7 @@ nav:
       - 数字化管理: experiences/Electronic-Record/index.md
       - 科研经历: experiences/Scientific-Research/index.md
   - 课程:
+      - 外语类: courses/English/index.md
       - 思政类: 
           - 首页: courses/ideology/index.md
           - 习近平新时代中国特色社会主义思想概论: courses/ideology/xigai/index.md

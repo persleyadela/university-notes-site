@@ -12,4 +12,4 @@ src="/university-notes-site/courses/computing/PTA_Python.pdf" width="100%" heigh
 
 这些资料我也发到了csdn上面，网页版可能目录索引更清楚，看起来会方便些⬇️
 
-https://blog.csdn.net/like_cs_810/article/details/139727101?fromshare=blogdetail&sharetype=blogdetail&sharerId=139727101&sharerefer=PC&sharesource=like_cs_810&sharefrom=from_link
+[浙大版PTA Python程序设计 题目与知识点整理（综合整理）](https://blog.csdn.net/like_cs_810/article/details/139727101?fromshare=blogdetail&sharetype=blogdetail&sharerId=139727101&sharerefer=PC&sharesource=like_cs_810&sharefrom=from_link)
