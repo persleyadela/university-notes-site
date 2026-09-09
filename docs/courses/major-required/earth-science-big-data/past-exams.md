@@ -15,7 +15,7 @@
 8. 如何将通用大模型应用于垂直领域？请给出至少三种方法。
 9. 以下是一段 Transformer 模块的代码，请回答：
 
-```
+```python
 class SimpleTransformer(nn.Module):
     def __init__(self, vocab_size, embed_dim, num_heads, num_classes):
         super(SimpleTransformer, self).__init__()
@@ -48,35 +48,49 @@ class SimpleTransformer(nn.Module):
 
 
 ## 2024-2025春夏
+
+
 1.支持向量机SVM的核心思想是什么？在线性可分和非线性可分的情况下，SVM分别该如何处理？
+
 2.卷积神经网络CNN的基本结构、原理和特点。举3个CNN在地球科学中（或者“遥感中”）的典型应用。
+
 3.在数据驱动的应用中，有100个独立样本，说明你在建模中样本的使用策略。
+
 4.大气是混沌的，为何气候具有可预测性？
+
 5.ConvLSTM和LSTM相比，结构有什么不同？有什么优势？
+
 6.解释梯度消失和梯度爆炸。发生梯度消失和梯度爆炸的原因是什么？有什么解决途径？
+
 7.智能体（Agent）的概念是什么？有哪些核心模块？试举一个生活中的应用例子解释。
-8.有一段全连接神经网络如下：（是FCNet，不是FCN）
+
+8. 有一段全连接神经网络如下：（是FCNet，不是FCN）
+
+```python
 class FCNet(nn.Module):
     def __init__(self):
         super(FCNet, self).__init__()
         self.fc1 = nn.Linear(10, 64)
         self.relu = nn.ReLU()
         self.fc2 = nn.Linear(64, 32)
-        self.fc3 = nn.Linear(32, 10)   
+        self.fc3 = nn.Linear(32, 10)
 
     def forward(self, x):
         x = self.fc1(x)
-        x = self.relu(x)              
+        x = self.relu(x)
         x = self.fc2(x)
-        x = self.relu(x)           
+        x = self.relu(x)
         x = self.fc3(x)
         return x
-
+```
 
 请问这段神经网络的层结构是怎样的？各层的作用以及适用于哪些任务？
+
 9.（英文，最好英文作答）
 In both cryosphere and oceanography lectures, the common challenges for machine learning was relating sparse,high-quality measurements to widespread but indirect remote sensing data.
+
 a)For the application of estimating a glacier's SMB,with a ML regression model,describe the data needed(input features and output labels).What are the challenges for acquiring or using those data?
+
 b)Similarly,let's say we want to estimate the deep ocean velocity at 1000 meters from surface data.describe the data needed and what are the challenges for acquiring or using those data.
 
 ## 2023-2024春夏

@@ -10,6 +10,8 @@
 上课最开始，老师帮忙复习了一遍微积分I的内容（毕老师人真心好好哇！），所以笔记前面一些是上册的内容～
 然后我看了一下笔记，感觉大部分都是期中之前的内容，不知道期中之后的那时候的自己去干啥了😮‍💨
 
+（ps：图片加载可能要等几秒，没有特别快～）
+
 <img src="./wjf-pages/page-002.webp" loading="lazy" style="width:90%; max-width:850px; display:block; margin:24px auto;">
 <img src="./wjf-pages/page-003.webp" loading="lazy" style="width:90%; max-width:850px; display:block; margin:24px auto;">
 <img src="./wjf-pages/page-004.webp" loading="lazy" style="width:90%; max-width:850px; display:block; margin:24px auto;">
