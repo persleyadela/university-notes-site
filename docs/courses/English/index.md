@@ -36,7 +36,7 @@
 
 ### 水测试卷构成
 <iframe 
-src="/university-notes-site/courses/English/shijuangouchheng.pdf" width="100%" height="900px"> 
+src="/university-notes-site/courses/English/shijuangoucheng.pdf" width="100%" height="900px"> 
 </iframe>
 
 ### 官方样卷及答案

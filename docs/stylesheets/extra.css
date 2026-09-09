@@ -16,3 +16,32 @@
 .md-nav__link:hover {
   color: #A67C00 !important;
 }
+
+/* ===== 口语题库 tip 折叠框：使用网站主题强调色 ===== */
+
+/* 外边框 */
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-color: var(--md-accent-fg-color);
+}
+
+/* 标题栏背景 */
+.md-typeset .tip > .admonition-title,
+.md-typeset .tip > summary {
+  background-color: color-mix(
+    in srgb,
+    var(--md-accent-fg-color) 10%,
+    transparent
+  );
+}
+
+/* 左侧 tip 图标 */
+.md-typeset .tip > .admonition-title::before,
+.md-typeset .tip > summary::before {
+  background-color: var(--md-accent-fg-color);
+}
+
+/* 右侧展开箭头 */
+.md-typeset details.tip > summary::after {
+  background-color: var(--md-accent-fg-color);
+}
