@@ -15,12 +15,12 @@
 因此，祁连山地区所表现出的阿尔金走滑减弱与广泛逆冲缩短、地壳增厚并存的现象，可以理解为青藏高原东北缘在持续汇聚背景下进行分布式应变调节的结果。
 
 <figure>
-<img src="../gfm-media/media/image15.png" style="width:6.21111in;height:2.12292in" alt="3401785833132_.pic" />
+<img src="./gfm-media/media/image15.png" style="width:6.21111in;height:2.12292in" alt="3401785833132_.pic" />
 <figcaption><p><span id="_Ref348006175" class="anchor"></span>图 7-1 阿尔金左旋走滑断裂与祁连山逆冲断层相互作用的可能时序模式示意图</p></figcaption>
 </figure>
 
 <figure>
-<img src="../gfm-media/media/image16.png" style="width:6.21944in;height:2.24236in" />
+<img src="./gfm-media/media/image16.png" style="width:6.21944in;height:2.24236in" />
 <figcaption><p><span id="_Ref315904805" class="anchor"></span>图 7-2 北祁连山-酒泉盆地主要断层滑动速率汇编<sup>[26]</sup></p></figcaption>
 </figure>
 
@@ -31,7 +31,7 @@
 结合北祁连山广泛发育的逆冲-褶皱构造以及前人提出的深部构造模型，可以认为祁连山的深部变形虽然具有增厚趋势但并非简单的均匀垂向增厚，而具有明显的非对称汇聚特征——即祁连山深部地壳-岩石圈变形总体可概括为：以水平挤压和大陆地壳缩短增厚为主体，并可能通过构造楔式非对称汇聚<sup>\[26\]</sup>（即酒泉盆地下方的戈壁—阿拉善岩石圈作为刚性块体南向楔入与上地壳向北逆冲的耦合，如[图 7-3](#_Ref350157471)）实现岩石圈尺度的应变协调。
 
 <figure>
-<img src="../gfm-media/media/image17.png" style="width:6.21736in;height:2.19444in" alt="/Users/b810/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/photoeditapp/20260809201412/temp.pngtemp" />
+<img src="./gfm-media/media/image17.png" style="width:6.21736in;height:2.19444in" alt="/Users/b810/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/photoeditapp/20260809201412/temp.pngtemp" />
 <figcaption><p><span id="_Ref350157471" class="anchor"></span>图 7-3 北祁连山与戈壁-阿拉善地块内酒泉盆地之间的岩石圈尺度构造楔<sup>[26]</sup>（据李坤等，2025修改）</p></figcaption>
 </figure>
 
