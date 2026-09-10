@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 **地球物理环境/软件/脚本配置**
 
 下载anaconda

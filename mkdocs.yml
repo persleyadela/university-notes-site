@@ -2,6 +2,7 @@ site_name: 810的大学课程资源库
 
 theme:
   name: material
+  custom_dir: overrides
   language: zh
 
 

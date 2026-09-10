@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 <img src="./phy-chem_61-133-pages/page-001.webp" loading="lazy" style="width:90%; max-width:850px; display:block; margin:24px auto;">
 
 <img src="./phy-chem_61-133-pages/page-002.webp" loading="lazy" style="width:90%; max-width:850px; display:block; margin:24px auto;">
