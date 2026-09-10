@@ -11,7 +11,7 @@
 鉴于本次实习聚焦于青藏高原北向扩展的生长机制，地层岩性并非研究核心，故在此仅作概要性的介绍，以作为区域构造分析的背景参照。
 
 <figure>
-<img src="../gfm-media/media/image11.png" style="width:5.41458in;height:6.95139in" />
+<img src="./gfm-media/media/image11.png" style="width:5.41458in;height:6.95139in" />
 <figcaption><p><span id="_Ref326913390" class="anchor"></span>图 4-1酒西盆地红柳峡剖面新生代地层综合柱状图<sup>[8]</sup></p></figcaption>
 </figure>
 
@@ -26,12 +26,12 @@
 至于这些构造的时间先后关系，本文推测大褶皱的形成与中部的走滑断层（[图 4-2](#_Ref327333565)中红色虚线部分）有关，而大背斜南翼的小褶皱的形成则与南部的逆冲断层有关，因此可得，中部走滑断层的形成早于南部逆冲断层。而对于北部贯穿东西的走滑断层，基于其北侧白垩系地层（K）基本无大型褶皱变形的南北部构造差异，推测其形成时间早于南部的断裂——综上，本文认为形成时间先后排序为：北侧大型走滑 ➞ 中部走滑断层（后期叠加了逆冲的性质）➞ 大褶皱（北侧为向斜，南侧为背斜）➞ 南侧逆冲断层 ➞ 南侧小褶皱（偏西南侧为小背斜，偏东北侧为小向斜）。
 
 <figure>
-<img src="../gfm-media/media/image12.png" style="width:5.48889in;height:3.68819in" />
+<img src="./gfm-media/media/image12.png" style="width:5.48889in;height:3.68819in" />
 <figcaption><p><span id="_Ref327333565" class="anchor"></span>图 4-2红柳峡地区构造地质遥感填图</p></figcaption>
 </figure>
 
 <figure>
-<img src="../gfm-media/media/image13.png" style="width:4.96181in;height:4.12431in" alt="3391785830078_.pic" />
+<img src="./gfm-media/media/image13.png" style="width:4.96181in;height:4.12431in" alt="3391785830078_.pic" />
 <figcaption><p><span id="_Ref327787354" class="anchor"></span>图 4-3红柳峡地区A-B、C-D构造地质剖面</p></figcaption>
 </figure>
 
@@ -42,7 +42,7 @@
 符号“⊗”：指示走滑断层方向，运动方向垂直纸面向内，即背离观察者。
 
 <figure>
-<img src="../gfm-media/media/image14.png" style="width:3.93611in;height:2.77917in" />
+<img src="./gfm-media/media/image14.png" style="width:3.93611in;height:2.77917in" />
 <figcaption><p><span id="_Ref328879809" class="anchor"></span>图 4-4红柳峡断层与阿尔金断裂地震解释剖面<sup>[9]</sup></p></figcaption>
 </figure>
 

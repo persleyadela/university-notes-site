@@ -1,4 +1,3 @@
-**参考文献**
 
 1.  TAPPONNIER P, XU Z Q, ROGER F, et al. Oblique stepwise rise and growth of the Tibet Plateau\[J\]. Science, 2001, 294(5547): 1671-1677. DOI: 10.1126/science.105978.
 

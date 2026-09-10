@@ -5,14 +5,14 @@
 老君庙背斜（相关文献中相关研究称 Yumen anticline）位于北祁连山前缘与酒泉盆地之间，是祁连山向北—东北方向扩展过程中形成的重要前缘褶皱构造。本次实习沿石油河阶地对老君庙背斜开展地质调查，根据地层产状及剖面测量结果绘制剖面（如[图 3-1](#_Ref323921744)），发现老君庙地区地层发生明显弯曲并且发育了膝折构造，两翼地层产状存在较大差异，整体表现为受近NE-SW向挤压形成的褶皱变形。并且背斜南侧地层主要向SSW倾斜约20°据此可以推测深部滑脱面也可能具有约20°的倾角<sup>\[7\]</sup>。
 
 <figure>
-<img src="../gfm-media/media/image7.png" style="width:5.99236in;height:3.59097in" />
+<img src="./gfm-media/media/image7.png" style="width:5.99236in;height:3.59097in" />
 <figcaption><p><span id="_Ref323921744" class="anchor"></span>图 3-1老君庙背斜地质构造及剖面特征图</p></figcaption>
 </figure>
 
 综上，老君庙背斜本质上是北祁连山向酒泉盆地方向挤压扩展的浅部响应结果。换言之，当近SW-NE向水平挤压作用于祁连山-酒泉盆地边界时，深部逆冲滑动并未全部以地表断裂形式释放，而是部分通过应力传导使得上覆地层发生褶皱缩短、弯曲与隆升吸收，最终形成前缘背斜（如[图 3-2](#_Ref324207463)）。
 
 <figure>
-<img src="../gfm-media/media/image8.png" style="width:6.28472in;height:3.17083in" alt="3411785834317_.pic" />
+<img src="./gfm-media/media/image8.png" style="width:6.28472in;height:3.17083in" alt="3411785834317_.pic" />
 <figcaption><p><span id="_Ref324207463" class="anchor"></span>图 3-2北祁连山-酒泉盆地前缘挤压缩短与老君庙背斜形成模式</p></figcaption>
 </figure>
 
@@ -25,7 +25,7 @@
 所以我们计算出的河流平均下切速率不等于构造抬升速率，前者是地貌过程的结果（侵蚀），后者则与构造过程的驱动力（隆升）相关；河流下切会受到隆升以及气候变化等多因素影响——这也意味着，石油河阶地虽然不能直接给出隆升速率，但是可以作为其上限来约束构造过程。在假设晚更新世下切完全由构造抬升控制的极端情况下，可以得到隆升速率的上限，即Hetzel et al. (2006) 指出的最大岩石抬升速率约为 0.8±0.2 mm/a；若采用约20°的滑脱面倾角，则对应最大水平缩短速率约为 2.2±0.5 mm/a<sup>\[7\]</sup>。
 
 <figure>
-<img src="../gfm-media/media/image9.png" style="width:5.10139in;height:1.47153in" />
+<img src="./gfm-media/media/image9.png" style="width:5.10139in;height:1.47153in" />
 <figcaption><p><span id="_Ref325787321" class="anchor"></span>图 3-3沿不同阶地及石油河测得的地形剖面<sup>[7]</sup></p></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@
 （年龄数据来自Hetzel et al., 2006，河拔高度则是根据[图 3-3](#_Ref325787321)手动测量计算）
 
 <figure>
-<img src="../gfm-media/media/image10.png" style="width:6.21181in;height:2.71528in" />
+<img src="./gfm-media/media/image10.png" style="width:6.21181in;height:2.71528in" />
 <figcaption><p><span id="_Ref326510022" class="anchor"></span>图 3-4石油河河拔高度随阶地年龄变化散点图</p></figcaption>
 </figure>
 

@@ -7,7 +7,7 @@
 具体而言，阿克塞的断裂穿过了河流阶地，阶地边缘的陡坎部分由于左旋走滑断层的发育发生了左旋的错移，我选择了T<sub>2</sub>阶地侧的陡坎错动计算错移量，先是从图上量得错动的位移量，然后结果比例尺的换算得到错移量约为57.57m以及T<sub>2</sub>的年龄5.81ka，根据公式$v = \frac{D}{t}$，最终得到走滑速率约为9.9m/ka（即9.9mm/a）。该结果表明（在误差允许范围内）阿克塞段在晚全新世以来仍保持强左旋走滑活动。
 
 <figure>
-<img src="../gfm-media/media/image5.png" style="width:5.57222in;height:3.82361in" />
+<img src="./gfm-media/media/image5.png" style="width:5.57222in;height:3.82361in" />
 <figcaption><p><span id="_Ref323551990" class="anchor"></span>图 2-1阿尔金断裂阿克塞段河流阶地错移及走滑速率估算图</p></figcaption>
 </figure>
 
@@ -20,7 +20,7 @@
 量约为 28 m，除以阶地年龄25.9ka，计算得到走滑速率值约1.08mm/a。与阿克塞段约 9.9 mm/a 的走滑速率相比，红柳峡中央断裂记录的走滑速率明显较低，说明阿尔金断裂东段的水平走滑变形并非沿走向均匀分布。二者之间的差异将在后文结合祁连山逆冲缩短作用进一步讨论。
 
 <figure>
-<img src="../gfm-media/media/image6.png" style="width:4.93333in;height:3.04931in" />
+<img src="./gfm-media/media/image6.png" style="width:4.93333in;height:3.04931in" />
 <figcaption><p><span id="_Ref323686446" class="anchor"></span>图 2-2红柳峡中央断裂段家沙河流阶地错移及走滑速率估算图</p></figcaption>
 </figure>
 
