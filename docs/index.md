@@ -19,3 +19,9 @@
 
 同时也发现虽然硬盘里面存了课程资料，但是都有点乱，而且主要是ppt还有用到的一些资源，课程笔记分散在onenote、微信、熊掌记、一些零散文件里面，整理起来也是费了好些功夫。资源里面的历年卷部分大部分都是来自cc98，my home～在此也特别感谢愿意写回忆卷造福后世的前辈们！
 
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<span id="busuanzi_container_site_pv">
+本站总访问量：<span id="busuanzi_value_site_pv"></span> 次
+</span>
+
